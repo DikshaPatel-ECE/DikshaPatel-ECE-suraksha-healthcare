@@ -201,7 +201,7 @@ The detailed architecture diagram is available in:
 
 ## Live Website
 
-[INSERT LIVE VERCEL LINK]
+https://surakshahealthcare.vercel.app/
 
 ## GitHub Repository
 
@@ -222,7 +222,7 @@ https://youtu.be/9ZHQSnkWUlg
 
 The complete project presentation is available at:
 
-`c:\Users\Diksha Patel\Downloads\suraksha.pdf`
+[View Project Presentation](docs/suraksha.pdf)
 
 ---
 
